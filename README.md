@@ -1,5 +1,8 @@
 # Enhancing-Neurological-Diagnosis-Using-a-High-Efficiency-Convolutional-Neural-Network
 
+This work has been published in the Recent Trends in Healthcare Innovation journal by Taylor and Francis:
+https://www.taylorfrancis.com/chapters/edit/10.1201/9781003501367-11/enhancing-neurological-diagnosis-high-efficiency-convolutional-neural-network-analysing-head-computed-tomography-scans-bhargava-nikhita-mansur-sathiya-narayanan
+
 In this work, we propose a dedicated CNN model for automating the initial screening procedure with a motive of improving the diagnostic efficiency and accuracy while also assisting physicians and radiologists in reaching quicker and more accurate choices. 
 
 The model was extensively tested on an independent set of 300 distinct head CT scans sourced from a hospital. The dataset included 7,023 images from various neurological conditions, such as
